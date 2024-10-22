@@ -1,0 +1,15 @@
+[2024-10-22 16:56:58] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 3
+[2024-10-22 16:56:58] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 6
+[2024-10-22 16:56:58] [ INFO ] [AverageList:15] La longitud de la lista es mayor a 10 y el promedio es: 6
+[2024-10-22 17:03:13] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 3
+[2024-10-22 17:03:13] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 6
+[2024-10-22 17:03:13] [ INFO ] [AverageList:15] La longitud de la lista es mayor a 10 y el promedio es: 6
+[2024-10-22 17:03:13] [ ERROR] [Main:14] java.lang.Exception
+[2024-10-22 17:03:27] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 3
+[2024-10-22 17:03:27] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 6
+[2024-10-22 17:03:27] [ INFO ] [AverageList:15] La longitud de la lista es mayor a 10 y el promedio es: 6
+[2024-10-22 17:03:27] [ ERROR] [Main:15] java.lang.Exception
+[2024-10-22 17:04:04] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 3
+[2024-10-22 17:04:04] [ INFO ] [AverageList:14] La longitud de la lista es mayor a 5 y el promedio es: 6
+[2024-10-22 17:04:04] [ INFO ] [AverageList:15] La longitud de la lista es mayor a 10 y el promedio es: 6
+[2024-10-22 17:04:04] [ ERROR] [Main:14] La Lista esta vacia java.lang.Exception
